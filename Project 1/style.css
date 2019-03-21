@@ -1,0 +1,14 @@
+.navbar{
+    margin: 0px auto 1px auto;
+}
+.jumbotron {
+    margin:0 auto;
+    background-image: url("images/jumbotron_bg.jpg");
+    background-size: cover;
+    color:white;
+    width:80%;
+  }
+
+  .jumbotron .my-4{
+      border-top: 1px solid white;
+  }
